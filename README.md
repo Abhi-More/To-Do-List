@@ -1,2 +1,2 @@
 # To-Do-List
-Developed a minimalist ToDoList web application utilizing HTML, CSS, JavaScript, and Bootstrap. The project showcases my proficiency in front-end web development, as well as my ability to implement local storage to maintain persistent data.
+Designed and developed a user-friendly ToDo List web application using HTML, CSS, JavaScript, and Bootstrap. The application allows users to add, delete, and clear their tasks with the added functionality of storing the list in the web browser's local storage. It has clean and intuitive user interface with responsive design for seamless user experience across different devices.
