@@ -1,3 +1,4 @@
+update();
 function getAndupdate(){
     tit = document.getElementById("title").value;
     desc = document.getElementById("description").value;
