@@ -1,0 +1,14 @@
+*{
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+}
+
+#desc{
+    height: 70px;
+    width: 350px;
+}
+tr, th, td{
+    table-layout: auto;
+    border: 2px solid black;
+}
