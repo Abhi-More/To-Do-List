@@ -15,7 +15,7 @@ function getAndupdate(){
         alert("Please Enter TItle..!");
       }
     else if(desc == "") {
-        alert("Please Enter TItle..!");
+        alert("Please Enter Description..!");
     }
       else{
       itemsJsonArrayStr = localStorage.getItem('itemsJson');
