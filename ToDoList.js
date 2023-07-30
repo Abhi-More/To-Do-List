@@ -11,9 +11,12 @@ function getAndupdate(){
       }
     }
     else{
-      if(tit == "" || desc == ""){
-        alert("Please Enter something..!")
+      if(tit == ""){
+        alert("Please Enter TItle..!");
       }
+    else if(desc == "") {
+        alert("Please Enter TItle..!");
+    }
       else{
       itemsJsonArrayStr = localStorage.getItem('itemsJson');
       itemsJsonArray = JSON.parse(itemsJsonArrayStr);
