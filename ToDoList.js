@@ -11,7 +11,7 @@ function getAndupdate(){
       }
     }
     else{
-      if(tit == "" && desc == ""){
+      if(tit == "" || desc == ""){
         alert("Please Enter something..!")
       }
       else{
